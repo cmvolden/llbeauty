@@ -1,0 +1,18 @@
+html {
+  font-family: 'Crimson Text', serif;
+}
+
+header {
+  background-color: white;
+}
+
+.banner {
+  background-color: rgba(255, 255, 255, .7);
+}
+
+.home-banner {
+  background-image: url("../images/makeup.jpg");
+  background-size: cover;
+  min-height: 30em;
+  background-position: center center;
+}
