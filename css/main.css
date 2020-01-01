@@ -1,18 +1,95 @@
 html {
-  font-family: 'Crimson Text', serif;
-}
-
-header {
-  background-color: white;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #0d1114;
 }
 
 .banner {
-  background-color: rgba(255, 255, 255, .7);
+  background-color: rgba(77, 164, 193, .2);
+  color: #fff;
+  font-family: 'Gelasio', serif;
 }
 
 .home-banner {
-  background-image: url("../images/makeup.jpg");
+  background-image: url("../images/main.jpeg");
   background-size: cover;
-  min-height: 30em;
+  min-height: 35em;
   background-position: center center;
+}
+
+.logo {
+  width: 200px;
+}
+
+nav {
+  border-top: .1em solid #fff;
+  border-bottom: .1em solid #fff;
+}
+
+nav a {
+  font-family: sans-serif;
+  color: #4da4c1;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #fff;
+}
+
+nav li:hover {
+  background-color: #4da4c1;
+}
+
+.active {
+  background-color: #fff;
+}
+
+.btn {
+  color: #fff;
+  background-color: #4da4c1;
+  border: none;
+  font-family: sans-serif;
+}
+
+.btn:hover {
+  color: #0d1114;
+  background-color: #fff;
+  border: none;
+}
+
+.review {
+  background-color: #0d1114;
+  color: #fff;
+}
+
+.icons {
+  background-color: #fff;
+  color: #0d1114;
+}
+
+.icon-image {
+  width: 100%;
+  filter: grayscale(100%);
+  transition: all .2s linear;
+}
+
+.icon-image:hover {
+  filter: grayscale(0);
+}
+
+h3 {
+  color: #4da4c1;
+}
+
+footer {
+  background-color: #fff;
+  color: #4da4c1;
+}
+
+.service-main {
+  background-color: #fff;
+  color: #000;
+}
+
+.subhead {
+  color: #4da4c1;
 }
