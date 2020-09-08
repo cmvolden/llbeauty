@@ -1,6 +1,6 @@
 html {
   font-family: 'Montserrat', sans-serif;
-  background-color: #0d1114;
+  background-color: #121213;
 }
 
 .banner {
@@ -51,19 +51,19 @@ nav li:hover {
 }
 
 .btn:hover {
-  color: #0d1114;
+  color: #121213;
   background-color: #fff;
   border: none;
 }
 
 .review {
-  background-color: #0d1114;
+  background-color: #121213;
   color: #fff;
 }
 
 .icons {
   background-color: #fff;
-  color: #0d1114;
+  color: #121213;
 }
 
 .icon-image {
@@ -80,6 +80,18 @@ h3 {
   color: #4da4c1;
 }
 
+.about-h1-h2 {
+  color: #4da4c1;
+}
+
+.about-p {
+  color: #fff;
+}
+
+.width-100 {
+  max-width: 100px;
+}
+
 .prices {
   max-width: 600px;
   margin-left: auto;
@@ -88,7 +100,7 @@ h3 {
 
 .service-main {
   background-color: #fff;
-  color: #000;
+  color: #121213;
 }
 
 .subhead {
