@@ -129,3 +129,13 @@ footer {
 .social-icon {
   width: 50px;
 }
+
+.news-card {
+  background-color: #fff;
+  border-radius: 10px;
+}
+
+a {
+  color: #121213;
+  text-decoration: none;
+}
