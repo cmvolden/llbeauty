@@ -3,6 +3,11 @@ html {
   background-color: #121213;
 }
 
+.news-banner {
+  background-color: #4da4c1;
+  color: #fff;
+}
+
 .banner {
   background-color: rgba(77, 164, 193, .2);
   color: #fff;
