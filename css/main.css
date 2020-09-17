@@ -121,6 +121,11 @@ footer {
   color: #4da4c1;
 }
 
+.dark-footer {
+  background-color: #121213;
+  color: #4da4c1;
+}
+
 .social-icon {
   width: 50px;
 }
