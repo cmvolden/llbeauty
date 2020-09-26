@@ -61,10 +61,10 @@ nav li:hover {
   border: none;
 }
 
-.review {
+/* .review {
   background-color: #121213;
   color: #fff;
-}
+} */
 
 .icons {
   background-color: #fff;
@@ -137,7 +137,7 @@ footer {
 }
 
 .blue-top {
-  border-top: 2px solid #4da4c1
+  border-top: 2px solid #4da4c1;
 }
 
 .social-icon {
@@ -148,6 +148,11 @@ footer {
   background-color: #fff;
   border-radius: 10px;
   max-width: 500px;
+}
+
+.card-hover:hover {
+  background-color: #4da4c1;
+  color: #fff;
 }
 
 
