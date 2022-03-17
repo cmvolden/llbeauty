@@ -55,14 +55,16 @@ nav li:hover {
 .btn {
   color: #fff;
   background-color: #4da4c1;
-  border: none;
+  border: 1px solid #4da4c1;
   font-family: sans-serif;
+  padding: 6px 30px 5px 30px;
 }
 
 .btn:hover {
   color: #121213;
   background-color: #fff;
-  border: none;
+  border: 1px solid #121213;
+  padding: 6px 30px 5px 30px;
 }
 
 /* .review {
