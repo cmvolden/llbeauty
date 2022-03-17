@@ -140,6 +140,10 @@ footer {
   color: #4da4c1;
 }
 
+.dark-footer a {
+  color: #fff;
+}
+
 .blue-top {
   border-top: 2px solid #4da4c1;
 }
