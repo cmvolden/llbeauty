@@ -9,17 +9,19 @@ html {
 }
 
 .banner {
-  background-color: rgba(77, 164, 193, .2);
+  /* background-color: rgba(77, 164, 193, .2); */
   color: #fff;
   font-family: 'Gelasio', serif;
 }
 
 .banner-wrapper {
-  max-width: 25em;
+  max-width: 30em;
+  padding-left: 1em;
+  padding-right: 1em;
 }
 
 .home-banner {
-  background-image: url("../images/main.jpeg");
+  /* background-image: url("../images/main.jpeg"); */
   background-size: cover;
   min-height: 35em;
   background-position: center center;
@@ -57,14 +59,15 @@ nav li:hover {
   background-color: #4da4c1;
   border: 1px solid #4da4c1;
   font-family: sans-serif;
-  padding: 6px 30px 5px 30px;
+  font-size: .75rem;
+  padding: 12px 60px 10px 60px;
 }
 
 .btn:hover {
   color: #121213;
   background-color: #fff;
   border: 1px solid #121213;
-  padding: 6px 30px 5px 30px;
+  /* padding: 12px 60px 10px 60px; */
 }
 
 /* .review {
